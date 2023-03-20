@@ -95,5 +95,3 @@ function calculateWinner(squares) {
   return null;
 }
  // showing the past moves
-
-msmöc
