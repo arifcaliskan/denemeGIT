@@ -96,3 +96,4 @@ function calculateWinner(squares) {
 }
  // showing the past moves
 
+msmöc
